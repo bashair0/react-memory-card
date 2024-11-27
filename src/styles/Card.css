@@ -1,0 +1,22 @@
+.Card {
+  cursor: pointer;
+  padding: 0.3rem;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  transition: border 0.3s;
+}
+
+.Card:hover,
+.Card:focus {
+  border: 1px solid #fefefe;
+}
+
+img {
+  width: 230px;
+  height: 250px;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+}
