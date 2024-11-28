@@ -1,7 +1,12 @@
 import "./App.css";
+import GameLogic from "./components/GameLogic";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <GameLogic />
+    </>
+  );
 }
 
 export default App;
