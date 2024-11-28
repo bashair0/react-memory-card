@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/bashair0/react-memory-card)
-- Live Site URL: [live site URL]()
+- Live Site URL: [live site URL](https://react-memory-card.pages.dev/)
 
 ## My process
 
