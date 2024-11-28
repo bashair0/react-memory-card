@@ -1,0 +1,17 @@
+.Rules {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+button {
+  margin-top: 1rem;
+  width: fit-content;
+}
+
+h3 {
+  margin-block: 1rem;
+  font-size: 2rem;
+}
